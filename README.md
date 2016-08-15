@@ -1,6 +1,6 @@
 
 # PokemonGoStats
-C# library used to calculate Pokemon Stats in Pokemon Go game.
+C# library used to calculate Pokemon Stats in Pokemon Go game. [Download latest release](https://github.com/thegamenicorus/PokemonGoStat/releases/tag/1.0.0)
 
 ## This repository is C# version of [PokemonGoStats.js](https://github.com/earthchie/PokemonGoStats.js)
 
